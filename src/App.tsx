@@ -79,7 +79,7 @@ export default function App() {
             title="Ely's Creativity on Display"
             image="/assets/beer.jpg"
             bullets={[
-              "Beer. A shit ton.",
+              "Beer.",
               "Open one. Then another.",
               "Repeat until ideas feel brilliant.",
             ]}
