@@ -78,7 +78,7 @@ export default function App() {
             Feature Presentation
           </motion.h2>
           <VideoPlayer
-            src="/assets/the-gentlemen.mp4"
+            src="https://gentle-giants.sfo3.cdn.digitaloceanspaces.com/grentle-giants.mp4"
             poster="/assets/the-gentlemen-poster-placeholder.jpg"
             controller={vc}
           />

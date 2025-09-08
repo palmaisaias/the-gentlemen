@@ -36,7 +36,7 @@ export default function VideoPlayer({ src, poster, controller }: Props) {
       <video
         ref={ref}
         className="w-full aspect-video bg-black"
-        src={"https://gentle-giants.sfo3.cdn.digitaloceanspaces.com/grentle-giants.mp4"}
+        src={src}
         poster={poster}
         controls
         onPlay={() => setIsPlaying(true)}
