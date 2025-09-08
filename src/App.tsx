@@ -67,7 +67,7 @@ export default function App() {
           <RecipeCard
             kind="cocktail"
             title="Ely's Fuck-All Whiskey"
-            image="/assets/muppet.png"
+            image="/assets/muppet.jpg"
             bullets={[
               "Pick a whiskey. Any bottle.",
               "Pour 2 to 3 oz into a glass.",
