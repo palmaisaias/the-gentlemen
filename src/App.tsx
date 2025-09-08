@@ -64,6 +64,26 @@ export default function App() {
               'Big cube; stir 20–30s',
             ]}
           />
+          <RecipeCard
+            kind="cocktail"
+            title="Ely's Fuck-All Whiskey"
+            image="/assets/muppet.png"
+            bullets={[
+              "Pick a whiskey. Any bottle.",
+              "Pour 2 to 3 oz into a glass.",
+              "That's it.",
+            ]}
+          />
+          <RecipeCard
+            kind="cocktail"
+            title="Ely's Creativity on Display"
+            image="/assets/beer.jpg"
+            bullets={[
+              "Beer. A shit ton.",
+              "Open one. Then another.",
+              "Repeat until ideas feel brilliant.",
+            ]}
+          />
         </section>
 
         {/* Video */}
